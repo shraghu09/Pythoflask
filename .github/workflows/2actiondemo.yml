@@ -23,7 +23,7 @@ jobs:
         with:
           context: .
           push: true
-          tags: raghavendrhm/cwj-flask-app:v1.0.0
+          tags: raghavendrhm/myimage/cwj-flask-app:v1.0.0
 
       - name: Run Container
         run: |
